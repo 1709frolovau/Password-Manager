@@ -15,7 +15,9 @@ Used skills:
 ·CLI
 
 Future plans:
+
 ·replace XOR with stronger cipher method
+
 ·create a GUI
 
 !!! This project is for learning purposes only and CANNOT be used as real password storage due to security reasons.
