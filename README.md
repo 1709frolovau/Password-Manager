@@ -20,4 +20,4 @@ This is a simple Password Manager I created using C++. It stores passwords by en
 
 ·create a GUI
 
-!!! This project is for learning purposes only and CANNOT be used as real password storage due to security reasons.
+## !!! This project is for learning purposes only and CANNOT be used as real password storage due to security reasons.
