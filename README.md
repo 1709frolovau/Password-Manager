@@ -2,7 +2,7 @@
 
 This is a simple Password Manager I created using C++. It stores passwords by encrypting them using a basic XOR cipher method before being saved and uses user friendly CLI for easy interaction.
 
-Used skills:
+## Used skills:
 
 ·file handling
 
@@ -14,7 +14,7 @@ Used skills:
 
 ·CLI
 
-Future plans:
+## Future plans:
 
 ·replace XOR with stronger cipher method
 
